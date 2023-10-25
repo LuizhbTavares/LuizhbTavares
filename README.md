@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou graduando do curso de Engenharia Eletrônica, pela UNIFEI. [Universidade Federal de Itajubá](https://unifei.edu.br/)
 
-- 🌱 Atualmente estou em constante aprendizado **Data Science.**
+- 🌱 Atualmente estou em constante aprendizado sobre **Data Science.**
 
 - 💬 Me pergunte sobre **Python, SQL, Power BI, Excel, BI, Java.**
 
